@@ -1,0 +1,40 @@
+{
+    // Apc customization
+    "apc.electron": {
+        "frame": false,
+        "titleBarStyle": "hidden",
+        "opacity": 0.5
+    },
+    "apc.activityBar": {
+      "position": "bottom",
+      "size": 30,
+      "itemSize": 30,
+      "itemMargin": 2
+    },
+    
+    
+    // Editor configs
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.verticalScrollbarSize": 0,
+    "editor.fontFamily": "'Monaspace Neon', monospace",
+    "editor.fontLigatures": "'calt', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss07', 'ss08', 'ss09', 'liga'",
+    "editor.lineHeight": 2,
+    "editor.minimap.enabled": false,
+    
+    // Extension configs
+    "extensions.autoUpdate": false,
+
+    // Workbench configs
+    "workbench.colorTheme": "Tokyo Night",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.startupEditor": "none",
+    "workbench.activityBar.location": "bottom",
+    
+    // Git configs
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+
+    // Others
+    "telemetry.telemetryLevel": "off"
+}
